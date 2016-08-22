@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/enter_the_numbers_example_1425734677"
+        />
+
+    <EditText
+        android:id="@+id/etLongestSubList"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="none"
+        android:text="@string/_1425734677"
+        />
+
+    <Button
+        android:id="@+id/btnLongestSubList"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/calculate"
+        android:layout_gravity="center_horizontal"
+        />
+
+    <TextView
+        android:id="@+id/tvAnswerLongestSubList"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text=""
+        android:layout_gravity="center_horizontal"
+        />
+
+</LinearLayout>

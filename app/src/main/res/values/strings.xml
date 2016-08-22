@@ -1,0 +1,28 @@
+<resources>
+
+    <!-- Button text -->
+    <string name="btn_logout_from_google">Logout from Google</string>
+    <string name="btn_revoke_access">Revoke Access</string>
+
+    <string name="facebook_app_id">1811758925722319</string>
+    <string name="app_name">Calculator</string>
+    <string name="et_name">Name</string>
+    <string name="tv_forgotten_password">Forgotten Password?</string>
+    <string name="btn_send">SEND</string>
+    <string name="tv_registration">Registration</string>
+    <string name="tv_calculator">Calculator</string>
+    <string name="et_email">Email</string>
+    <string name="tv_recover_your_password">Please, enter your email to recover your password</string>
+    <string name="tv_login">Login</string>
+    <string name="tv_please_fill_in_the_registration_form">Please fill in the registration form</string>
+    <string name="et_first_name">First Name</string>
+    <string name="et_last_name">Last Name</string>
+    <string name="et_phone">Phone</string>
+    <string name="et_login">Login</string>
+    <string name="et_password">Password</string>
+    <string name="register_activity_btn_send">SEND</string>
+    <string name="enter_the_number">Enter the number</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="enter_the_numbers_example_1425734677">Enter the numbers(Example 1425734677)</string>
+    <string name="_1425734677">1425734677</string>
+</resources>
